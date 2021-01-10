@@ -6,8 +6,6 @@ What this software does is it prints out "Hello world!"
 
 The purpose of this project is to practice and demostrate how to document and publish projects using Visual Studio Code, Github, and Python.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
 Here is a demo of my software: [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
